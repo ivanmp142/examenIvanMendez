@@ -1,0 +1,100 @@
+@font-face {
+    font-family: "arcade";
+    src: url(font/RETROTECH.ttf);
+}
+
+
+body{
+    margin: auto;
+    background-image: url(img/fondoretro.jpg);
+    font-family: arcade;
+    color: white;
+
+}
+
+table {
+
+    background-color: rgb(62, 59, 59) ;
+    margin: auto;
+    width: 800px;
+    height: 500px;
+    text-align: center;
+    border: 5px solid black;
+    border-style: groove;   
+    border-radius: 10px;
+    border-color: yellow ;
+
+}
+
+h1 {
+
+    text-align: center;
+}
+ td{
+
+    width: 40px;
+    height: 40px;
+    border: 1px outset grey;
+    border-radius: 2px;
+    border-style: groove;
+    color: gray;
+
+
+ }
+
+ #UP{
+
+    color: red;
+    font-size: 40px;
+
+ }
+
+ #score {
+    color: white;
+    font-size: 32px;
+ }
+
+ #banner{
+
+    background-color: black;
+    border-bottom-color: white ;
+ }
+
+
+
+.color1{ 
+
+    background-color: rgb(62, 59, 59);
+}
+
+.color2{ 
+
+    background-color: rgb(239, 5, 5);
+}
+
+.color3{ 
+
+    background-color:  rgb(239, 216, 5);
+}
+
+.color4{ 
+
+    background-color:  blue;
+}
+
+.color5{ 
+
+    background-color: violet;
+}
+
+.color6{ 
+
+    background-color: green;
+}
+
+
+.espacio {
+
+    border-color: rgb(62, 59, 59) ;
+}
+
